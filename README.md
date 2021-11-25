@@ -11,7 +11,7 @@ Our team members include
 
 All of us are from Rajagiri School Of Engineering and technology.
 
-##Our project : Air Quality Detection using Machine Learning
+#Our project : Air Quality Detection using Machine Learning
 
 
 
